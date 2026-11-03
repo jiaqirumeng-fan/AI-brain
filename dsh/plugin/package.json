@@ -1,0 +1,8 @@
+{
+  "name": "dsh-hippocampus-hook",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "./index.js",
+  "description": "DSH turn/end hook: auto-capture durable conversation memories into the Hippocampus service."
+}

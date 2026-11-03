@@ -1,0 +1,26 @@
+# 运行时数据与隐私（不要上传）
+data/brain.json
+data/kb-index.json
+data/hook.log
+data/mobile-token.txt
+data/mobile-qr.svg
+data/senses/
+
+# 测试临时文件
+test/*tmp*/
+test/mcp_brain.json
+test/mcp_kb*
+test/mcp_mobile_token.txt
+test/mcp_senses/
+
+# Word / 系统锁文件
+~$*
+.DS_Store
+Thumbs.db
+
+# 依赖与本地配置
+node_modules/
+.env
+*.log
+__pycache__/
+*.pyc
